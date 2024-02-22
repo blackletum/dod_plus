@@ -1,0 +1,19 @@
+"gamemounting.txt"
+{
+	"Day of Defeat Source"
+	{
+		"appid"		"300"
+		"required"	"1"
+		
+		"paths"
+		{
+			"local"			"Day of Defeat Source"
+			"local"			"Day of Defeat Source/dod/"
+			"local"			"Day of Defeat Source/dod/dod_pak_dir.vpk"
+			
+			"dedicated"		"Day of Defeat Source"
+			"dedicated"		"Day of Defeat Source/dod/"
+			"dedicated"		"Day of Defeat Source/dod/dod_pak_dir.vpk"
+		}
+	}
+}
