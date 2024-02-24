@@ -472,3 +472,153 @@ Ambient.KaltWheelCreak
 
 	"wave"		"UI/gift_pickup.wav"
 }
+
+// ------------------------------------------------------------------------------------ //
+// HEADLESS BOSS
+// ------------------------------------------------------------------------------------ //
+
+"Halloween.HeadlessBossSpawn"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.000"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"	"SNDLVL_150dB"
+
+	"wave"		")ui/halloween_boss_summoned_fx.wav"
+}
+
+"Halloween.HeadlessBossSpawnRumble"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.000"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"	"SNDLVL_100dB"
+
+	"wave"		")ui/halloween_boss_summon_rumble.wav"
+}
+
+"Halloween.HeadlessBossAttack"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.000"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"	"SNDLVL_95dB"
+
+	"rndwave"			
+	{
+		"wave"		"vo/halloween_boss/knight_attack01.mp3"
+		"wave"		"vo/halloween_boss/knight_attack02.mp3"
+		"wave"		"vo/halloween_boss/knight_attack03.mp3"
+		"wave"		"vo/halloween_boss/knight_attack04.mp3"
+	}
+}
+
+"Halloween.HeadlessBossAlert"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.000"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"	"SNDLVL_95dB"
+
+	"rndwave"
+	{
+		"wave"		"vo/halloween_boss/knight_alert01.mp3"
+		"wave"		"vo/halloween_boss/knight_alert02.mp3"
+	}
+}
+
+"Halloween.HeadlessBossBoo"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.000"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"	"SNDLVL_95dB"
+
+	"wave"		"vo/halloween_boss/knight_alert.mp3"
+}
+
+"Halloween.HeadlessBossPain"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.000"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"	"SNDLVL_95dB"
+
+	"rndwave"
+	{
+		"wave"		"vo/halloween_boss/knight_pain01.mp3"
+		"wave"		"vo/halloween_boss/knight_pain02.mp3"
+		"wave"		"vo/halloween_boss/knight_pain03.mp3"
+	}
+}
+
+"Halloween.HeadlessBossLaugh"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.000"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"	"SNDLVL_95dB"
+
+	"rndwave"			
+	{
+		"wave"		"vo/halloween_boss/knight_laugh01.mp3"
+		"wave"		"vo/halloween_boss/knight_laugh02.mp3"
+		"wave"		"vo/halloween_boss/knight_laugh03.mp3"
+		"wave"		"vo/halloween_boss/knight_laugh04.mp3"
+	}
+}
+
+"Halloween.HeadlessBossDying"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1.000"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"	"SNDLVL_150dB"
+
+	"wave"		"vo/halloween_boss/knight_dying.mp3"
+}
+
+"Halloween.HeadlessBossDeath"
+{
+	"channel"		"CHAN_STATIC"
+	"volume"		"1.000"
+	"pitch"			"PITCH_NORM"
+	"soundlevel"	"SNDLVL_95dB"
+
+	"wave"		"ui/halloween_boss_defeated_fx.wav"
+}
+
+// ------------------------------------------------------------------------------------ //
+// HALLOWEEN BOSS AXE
+// ------------------------------------------------------------------------------------ //
+
+"Halloween.HeadlessBossAxeHitFlesh"
+{
+	"channel"		"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_150dB"
+	"pitch"			"95,105"
+	"volume"		"1.0"
+	"wave"			")weapons/halloween_boss/knight_axe_hit.wav"
+}
+
+"Halloween.HeadlessBossAxeHitWorld"
+{
+	"channel"		"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_150dB"
+	"pitch"			"95,105"
+	"volume"		"1.0"
+	"wave"			")weapons/halloween_boss/knight_axe_miss.wav"
+}
+
+"Halloween.HeadlessBossFootfalls"
+{
+	"channel"		"CHAN_BODY"
+	"soundlevel"	"SNDLVL_150dB"
+	"pitch"			"95,105"
+	"volume"		"1.0"
+	"rndwave"
+	{
+		"wave"		")player/footsteps/giant1.wav"
+		"wave"		")player/footsteps/giant2.wav"
+	}
+}
