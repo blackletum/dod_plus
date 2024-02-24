@@ -86,6 +86,68 @@
 		"wide"					"0"
 		"tall"					"0"
 	}
+	HudGeiger
+	{
+		"fieldName" "HudGeiger"
+		"visible" "1"
+		"enabled" "1"
+		"wide"	 "640"
+		"tall"	 "480"
+	}
+	HudHDRDemo
+	{
+		"fieldName" "HudHDRDemo"
+		"xpos"	"0"
+		"ypos"	"0"
+		"wide"	"640"
+		"tall"  "480"
+		"visible" "1"
+		"enabled" "1"
+		
+		"Alpha"	"255"
+		"PaintBackgroundType"	"2"
+		
+		"BorderColor"	"0 0 0 255"
+		"BorderLeft"	"16"
+		"BorderRight"	"16"
+		"BorderTop"		"16"
+		"BorderBottom"	"64"
+		"BorderCenter"	"0"
+		
+		"TextColor"		"255 255 255 255"
+		"LeftTitleY"	"422"
+		"RightTitleY"	"422"
+	}
+	HUDAutoAim
+	{
+		"fieldName" "HUDAutoAim"
+		"visible" "1"
+		"enabled" "1"
+		"wide"	 "640"	[$WIN32]
+		"tall"	 "480"	[$WIN32]
+		"wide"	 "960"	[$X360]
+		"tall"	 "720"	[$X360]
+	}
+	HudCredits
+	{
+		"fieldName"	"HudCredits"
+		"TextFont"	"Default"
+		"visible"	"1"
+		"xpos"	"0"
+		"ypos"	"0"
+		"wide"	"640"
+		"tall"	"480"
+		"TextColor"	"255 255 255 192"
+
+	}
+	HudWeapon
+	{
+		"fieldName" "HudWeapon"
+		"visible" "1"
+		"enabled" "1"
+		"wide"	 "640"
+		"tall"	 "480"
+	}
 	HudWeaponSelection
 	{
 		"fieldName"				"HudWeaponSelection"

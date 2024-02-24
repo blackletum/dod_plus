@@ -14,4 +14,34 @@
 			"dedicated"		"dod/dod_pak_dir.vpk"
 		}
 	}
+	"Half-Life 2"	[!$DEDICATED]
+	{
+		"appid"		"220"
+		"required"	"0"
+		
+		"paths"
+		{
+			"local"		"hl2/hl2_misc_dir.vpk"
+			"local"		"hl2/hl2_sound_misc_dir.vpk"
+			"local"		"hl2/hl2_sound_vo_english_dir.vpk"
+			"local"		"hl2/hl2_textures_dir.vpk"
+			"local"		"hl2/hl2_pak_dir.vpk"
+			"local"		"hl2"
+		}
+	}
+	"Half-Life 2"	[$DEDICATED]
+	{
+		"appid"		"220"
+		"required"	"0"
+		
+		"paths"
+		{
+			"dedicated"		"hl2/hl2_misc_dir.vpk"
+			"dedicated"		"hl2/hl2_sound_misc_dir.vpk"
+			"dedicated"		"hl2/hl2_sound_vo_english_dir.vpk"
+			"dedicated"		"hl2/hl2_textures_dir.vpk"
+			"dedicated"		"hl2/hl2_pak_dir.vpk"
+			"dedicated"		"hl2"
+		}
+	}
 }
