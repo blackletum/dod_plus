@@ -53,7 +53,6 @@
 		"paths"
 		{
 			"local"			"tf"
-			"local"			"tf/downloads"
 
 			"local"			"tf/tf2_textures.vpk"
 			"local"			"tf/tf2_sound_vo_english.vpk"
@@ -61,7 +60,6 @@
 			"local"			"tf/tf2_misc.vpk"
 
 			"dedicated"		"tf"			
-			"dedicated"		"tf/downloads"
 			"dedicated"		"tf/tf2_textures_dir.vpk"
 			"dedicated"		"tf/tf2_sound_vo_english_dir.vpk"
 			"dedicated"		"tf/tf2_sound_misc_dir.vpk"
