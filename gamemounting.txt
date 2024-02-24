@@ -7,12 +7,10 @@
 		
 		"paths"
 		{
-			"local"			"Day of Defeat Source"
-			"local"			"dod/"
+			"local"			"dod"
 			"local"			"dod/dod_pak_dir.vpk"
 			
-			"dedicated"		"Day of Defeat Source"
-			"dedicated"		"dod/"
+			"dedicated"		"dod"
 			"dedicated"		"dod/dod_pak_dir.vpk"
 		}
 	}

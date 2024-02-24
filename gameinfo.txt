@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game	"DoD:LambdaTest"
+	game	"DoDs:+"
 	title	"[DAY-OV-DEFEAT]"
 	title2	"Plus+"
 	type multiplayer_only

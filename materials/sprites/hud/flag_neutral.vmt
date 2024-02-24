@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites\hud\flag_neutral"
-	"$translucent"	"1"
-	"$ignorez"	"1"
-}

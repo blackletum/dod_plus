@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites\hud\winpanel_bomb"
-	"$translucent"	"1"
-	"$ignorez"	"1"
-}

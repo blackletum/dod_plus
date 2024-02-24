@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "sprites\hud\Wounded"
-	"$translucent"	"1"
-	"$ignorez"	"1"
-}
