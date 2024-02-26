@@ -17,6 +17,11 @@ textwindow_temp.html
 # crash dumps
 *.dmp
 
+maps/ctf_*.*
+maps/cp_*.*
+maps/tr_*.*
+maps/pl_*.*
+maps/pd_*.*
 # config files
 cfg/sourcemod/*
 cfg/autoexec_user.cfg
