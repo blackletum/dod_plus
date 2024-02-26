@@ -1,8 +1,8 @@
 "GameInfo"
 {
-	game	"DoDs:+"
-	title	"[DAY-OV-DEFEAT]"
-	title2	"Plus+"
+	game	"Day of Conquest"
+	title	"[DAY-OV-CONQUEST]"
+	title	""
 	type multiplayer_only
 	nomodels 0
 	nohimodel 1
@@ -17,7 +17,7 @@
 
 	FileSystem
 	{
-		SteamAppId				243750
+		SteamAppId				300
 		
 		//
 		// The code that loads this file automatically does a few things here:
