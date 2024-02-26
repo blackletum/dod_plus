@@ -2,7 +2,7 @@
 {
 	game	"Day of Conquest"
 	title	"[DAY-OV-CONQUEST]"
-	title	""
+	icon	"resource/game"
 	type multiplayer_only
 	nomodels 0
 	nohimodel 1
