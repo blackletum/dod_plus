@@ -82,12 +82,6 @@
 		"wave"	"weapons/fx/rics/ric3.wav"
 		"wave"	"weapons/fx/rics/ric4.wav"
 		"wave"	"weapons/fx/rics/ric5.wav"
-		"wave"	"weapons/fx/rics/ric6.wav"
-		"wave"	"weapons/fx/rics/ric7.wav"
-		"wave"	"weapons/fx/rics/ric8.wav"
-		"wave"	"weapons/fx/rics/ric9.wav"
-		"wave"	"weapons/fx/rics/ric10.wav"
-		"wave"	"weapons/fx/rics/ric11.wav"
 	}
 }
 
