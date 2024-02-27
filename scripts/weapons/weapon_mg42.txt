@@ -16,7 +16,7 @@ WeaponData
 	"AccuracyMovePenalty"		"0.1"
 	"Recoil"			"20"
 	"Penetration"			"1.0"
-	"FireDelay"			"0.1"
+	"FireDelay"			"0.05"
 	"IdleTimeAfterFire"		"5.0"
 	"IdleInterval"			"5.0"	
 	"BulletsPerShot"		"2"
