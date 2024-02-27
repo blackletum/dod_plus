@@ -34,9 +34,9 @@ WeaponData
 	SoundData
 	{
 		"melee_miss"		"Weapon_Knife.Swing"
-		"melee_hit"		"Weapon_Punch.HitPlayer"
+		"melee_hit"		"Weapon_Knife.SlashPlayer"
 		"special1"		"Weapon_Knife.SlashPlayer"
-		"melee_hit_world"	"Weapon_Punch.HitWorld"
+		"melee_hit_world"	"Weapon_Knife.SlashWorld"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.
