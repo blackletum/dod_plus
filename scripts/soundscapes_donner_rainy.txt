@@ -79,6 +79,13 @@
 		"wave"		"ambient/windcracksandsnaps.wav"
 	}
 
+	"playlooping"
+	{
+		"volume"		".75"
+		"pitch"		"100"
+		"wave"		"ambience/thunder_rain.wav"
+	}
+
 	"playrandom"
 	{
 		"time"		"10, 15"
@@ -117,6 +124,13 @@
 		"volume"		".4"
 		"pitch"		"100"
 		"wave"		"ambient/windlowandrustle.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		".75"
+		"pitch"		"100"
+		"wave"		"ambience/thunder_rain.wav"
 	}
 		
 	
@@ -165,6 +179,13 @@
 		"volume"		".4"
 		"pitch"		"100"
 		"wave"		"ambient/windlowandrustle.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		".75"
+		"pitch"		"100"
+		"wave"		"ambience/thunder_rain.wav"
 	}
 		
 	
