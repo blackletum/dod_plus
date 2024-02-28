@@ -89,7 +89,7 @@
 	"playrandom"
 	{
 		"time"		"10, 15"
-		"volume"	".75"
+		"volume"	"1"
 		"pitch"		"100"
 
 		"rndwave"
@@ -144,7 +144,7 @@
 	"playrandom"
 	{
 		"time"		"10, 15"
-		"volume"	".75"
+		"volume"	"1"
 		"pitch"		"100"
 
 		"rndwave"
@@ -199,14 +199,14 @@
 	"playrandom"
 	{
 		"time"		"10, 15"
-		"volume"	".75"
+		"volume"	"1"
 		"pitch"		"100"
 
 		"rndwave"
 		{
-			"wave"		"ambient/thunder2.wav"
-			"wave"		"ambient/thunder3.wav"
-			"wave"		"ambient/thunder4.wav"
+			"wave"		"ambience/thunder2.wav"
+			"wave"		"ambience/thunder3.wav"
+			"wave"		"ambience/thunder4.wav"
 		}
 	}
 	
