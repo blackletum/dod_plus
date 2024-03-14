@@ -1,9 +1,10 @@
 "GameInfo"
 {
 	game	"Day of Conquest"
-	title	"[DAY-OV-CONQUEST]"
+	title	""
 	icon	"resource/game"
 	type multiplayer_only
+	gamelogo 1
 	nomodels 1
 	nohimodel 1
 	nocrosshair 1

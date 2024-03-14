@@ -7,4 +7,10 @@ particles_manifest
 	"file"		"particles/muzzleflashes.pcf"
 	"file"		"particles/rockettrail.pcf"
 	"file"		"particles/achievement.pcf"
+	"file"		"particles/rain.pcf"
+	"file"		"particles/water_impact.pcf"
+	"file"		"particles/waterdrips.pcf"
+	
+	// Mapbase particles - Add these to your own mod's particle manifest file (or copy this file)
+	"file"		"particles/rain_fx.pcf"
 }
