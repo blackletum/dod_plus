@@ -59,67 +59,49 @@
 //	SNDLVL_150dB	= 150,	// 0.2
 
 
-"RainDonner.MainAmbient"
+"RainDonner.Room"
 {
-	// old dsp 24
-	"dsp"	"1"
+	"dsp"	"12"
 
 	"playlooping"
 	{
-		"volume"		".4"
+		"volume"		".3"
 		"pitch"		"100"
 		"wave"		"ambient/windlowandrustle.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		".55"
+		"pitch"		"100"
+		"wave"		"ambience/thunder_rain_indoor.wav"
 	}
 		
 	
 	"playlooping"
 	{
-		"volume"		".5"
+		"volume"		".2"
 		"pitch"		"100"
 		"wave"		"ambient/windcracksandsnaps.wav"
 	}
 
 	"playlooping"
 	{
-		"volume"		".75"
-		"pitch"		"100"
-		"wave"		"ambience/thunder_rain.wav"
-	}
-
-	"playlooping"
-	{
-		"volume"		"1"
+		"volume"		".5"
 		"pitch"		"100"
 		"wave"		"ambience/dodambience1.wav"
 	}
 	"playlooping"
 	{
-		"volume"		"1"
+		"volume"		".5"
 		"pitch"		"100"
 		"wave"		"ambience/dodambience4.wav"
-	}
-
-	"playrandom"
-	{
-		"time"		"10, 15"
-		"volume"	"1"
-		"pitch"		"100"
-
-		"rndwave"
-		{
-			"wave"		"ambience/thunder2.wav"
-			"wave"		"ambience/thunder3.wav"
-			"wave"		"ambience/thunder4.wav"
-			"wave"		"ambient/thunder2.wav"
-			"wave"		"ambient/thunder3.wav"
-			"wave"		"ambient/thunder4.wav"
-		}
 	}
 	
 	"playrandom"
 	{
 		"time"		"15, 40"
-		"volume"		".2"
+		"volume"		".1"
 		"pitch"		"100"
 		"rndwave"
 		{
@@ -130,10 +112,10 @@
 	}
 }
 
-"RainDonner.AlliedSpawnAmbient"
+"RainDonner.OutsideAmbient"
 {
 	// old dsp 24
-	"dsp"	"1"
+	"dsp"	"24"
 
 	"playlooping"
 	{
@@ -168,88 +150,6 @@
 		"volume"		"1"
 		"pitch"		"100"
 		"wave"		"ambience/dodambience4.wav"
-	}
-
-	"playrandom"
-	{
-		"time"		"10, 15"
-		"volume"	"1"
-		"pitch"		"100"
-
-		"rndwave"
-		{
-			"wave"		"ambience/thunder2.wav"
-			"wave"		"ambience/thunder3.wav"
-			"wave"		"ambience/thunder4.wav"
-		}
-	}
-	
-	"playrandom"
-	{
-		"time"		"15, 40"
-		"volume"		".2"
-		"pitch"		"100"
-		"rndwave"
-		{
-			"wave"	"ambient/shutter4.wav"
-			"wave"	"ambient/shutter5.wav"
-			"wave"	"ambient/shutter6.wav"
-		}
-	}
-}
-
-"Donner.AxisSpawnAmbient"
-{
-	// old dsp 24
-	"dsp"	"1"
-
-	"playlooping"
-	{
-		"volume"		".4"
-		"pitch"		"100"
-		"wave"		"ambient/windlowandrustle.wav"
-	}
-
-	"playlooping"
-	{
-		"volume"		".75"
-		"pitch"		"100"
-		"wave"		"ambience/thunder_rain.wav"
-	}
-		
-	
-	"playlooping"
-	{
-		"volume"		".5"
-		"pitch"		"100"
-		"wave"		"ambient/windcracksandsnaps.wav"
-	}
-
-	"playlooping"
-	{
-		"volume"		"1"
-		"pitch"		"100"
-		"wave"		"ambience/dodambience1.wav"
-	}
-	"playlooping"
-	{
-		"volume"		"1"
-		"pitch"		"100"
-		"wave"		"ambience/dodambience4.wav"
-	}
-
-	"playrandom"
-	{
-		"time"		"10, 15"
-		"volume"	"1"
-		"pitch"		"100"
-
-		"rndwave"
-		{
-			"wave"		"ambience/thunder2.wav"
-			"wave"		"ambience/thunder3.wav"
-			"wave"		"ambience/thunder4.wav"
-		}
 	}
 	
 	"playrandom"
