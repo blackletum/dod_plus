@@ -12,7 +12,7 @@ PlayerClassDatafile
 
 	// Weapon Info
 	"primaryweapon"		"pschreck"
-	"secondaryweapon"	"c96"
+	"secondaryweapon"	"c96carbine"
 	"meleeweapon"		"spade"
 
 	// Model Info
