@@ -2,7 +2,7 @@
 {
 	"name" "Sergeant Balls"
 	"name" "Private Ryan"
-	"name" "Hanz"
+	"name" "Hans"
 	"name" "Panzer"
 	"name" "Freeman"
 	"name" "John"
@@ -19,7 +19,6 @@
 	"name" "Breen"
 	"name" "Bacon"
 	"name" "Jane Doe"
-	"name" "John Doe"
 	"name" "Steve"
 	"name" "Muller"
 	"name" "Dario Casali"
@@ -52,4 +51,9 @@
 	"name" "Misha"
 	"name" "Tyler"
 	"name" "Kratos"
+	"name" "Oppenheimer"
+	"name" "Blazkowicz"
+	"name" "Joseph"
+	"name" "Johan"
+	"name" "Nick"
 } 
