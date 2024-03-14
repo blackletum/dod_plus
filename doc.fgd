@@ -299,3 +299,8 @@
 		2 : "[2] Particle types only: Suppress outer particle (recommended if clamping)" : 1
 	]
 ]
+
+@SolidClass base(Targetname, Parentname) = func_precipitation_blocker : 
+	"A brush entity that prevents rain and snow inside its volume."
+[
+]

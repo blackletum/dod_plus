@@ -1,7 +1,7 @@
 PlayerClassDatafile
 {
 	// FilePLayerClassInfo_t members
-	"printname"			"Sergeant"	
+	"printname"			"#class_allied_m3"	
 	"playermodel"		"models/player/american_assault.mdl"
 	"selectcmd"			"cls_m3"
 
@@ -11,11 +11,11 @@ PlayerClassDatafile
 	"team"				"ALLIES"
 
 	// Weapon Info
-	"primaryweapon"		"m3"
+	"primaryweapon"		"greasegun"
 	"grenadetype"		"frag_us"
 	"numgrens"			"1"
 	"secondaryweapon"	"colt"
-	"meleeweapon"		"amerknife"
+	//"meleeweapon"		"amerknife"
 
 	// Model Info
 	"helmetgroup"		"0"
