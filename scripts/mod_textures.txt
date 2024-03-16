@@ -163,6 +163,15 @@
 			"width"		"165"
 			"height"	"48"
 		}
+		
+		"d_c96carbine"
+		{
+			"file"		"sprites/hud/death_icons"
+			"x"		"0"
+			"y"		"170"
+			"width"		"165"
+			"height"	"48"
+		}
 
 		"d_pschreck"
 		{
@@ -516,6 +525,15 @@
 			"y"		"0"
 			"width"		"156"
 			"height"	"128"
+		}
+		
+		"wpn_c96carbine"
+		{	
+			"file"		"sprites/hud/dod_weapons01"
+			"x"		"697"
+			"y"		"337"
+			"width"		"327"
+			"height"	"100"
 		}
 
 		"icon_obj_allies"

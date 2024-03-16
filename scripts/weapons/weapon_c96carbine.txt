@@ -41,8 +41,8 @@ WeaponData
 	"HudClipBulletHeight"		"9"
 
 	//Weapon Model
-	"viewmodel"				"models/weapons/v_c96.mdl"
-	"playermodel"			"models/weapons/w_c96.mdl"
+	"viewmodel"				"models/weapons/v_c96carbine.mdl"
+	"playermodel"			"models/weapons/w_c96carbine.mdl"
 	
 	//Player Animation
 	"anim_prefix"			"pistol"

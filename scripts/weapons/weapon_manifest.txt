@@ -29,6 +29,9 @@ weapon_manifest
 	"file"		"scripts/weapon_spade.txt"
 	"file"		"scripts/weapon_spring.txt"
 	"file"		"scripts/weapon_thompson.txt"
+	"file"		"scripts/weapon_greasegun.txt"
+	"file"		"scripts/weapon_c96carbine.txt"
+	//HL2 Weaps
 	"file"		"scripts/weapon_357.txt"
 	"file"		"scripts/weapon_alyxgun.txt"
 	"file"		"scripts/weapon_annabelle.txt"
