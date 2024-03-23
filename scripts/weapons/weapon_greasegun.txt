@@ -39,8 +39,8 @@ WeaponData
 	"HudClipBulletHeight"		"6"
 
 	//Weapon Model
-	"viewmodel"					"models/weapons/v_thompson.mdl"
-	"playermodel"				"models/weapons/w_thompson.mdl"
+	"viewmodel"					"models/weapons/v_grease.mdl"
+	"playermodel"				"models/weapons/w_grease.mdl"
 	
 	//Player Animation
 	"anim_prefix"				"tommy"
@@ -48,7 +48,7 @@ WeaponData
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
 	{
-		"single_shot"			"Weapon_Thompson.Shoot"
+		"single_shot"			"Weapon_greasegun.Shoot"
 		"reload"				"Weapon_Thompson.WorldReload"
 		"melee_hit"				"Weapon_Punch.HitPlayer"
 		"melee_hit_world"		"Weapon_Punch.HitWorld"

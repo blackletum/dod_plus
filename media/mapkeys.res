@@ -4,4 +4,8 @@
 	{
 		"killed_a_player"		"1"
 	}
+	"dod_donner_rain"
+	{
+		"killed_a_player"		"1"
+	}
 }

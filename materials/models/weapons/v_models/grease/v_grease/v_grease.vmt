@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/grease/v_grease"
+	"$translucent" 1
+}
