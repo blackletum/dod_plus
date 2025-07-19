@@ -30,34 +30,35 @@ whitelist
 	particle/particle_smokegrenade.vtf		trusted_source
 	effects/stun.vmt		trusted_source
 	scripts/dsp_presets.txt		trusted_source
-	scripts/weapon_30cal.txt		trusted_source
-	scripts/weapon_amerknife.txt		trusted_source
-	scripts/weapon_bar.txt		trusted_source
-	scripts/weapon_bazooka.txt		trusted_source
-	scripts/weapon_c96.txt		trusted_source
-	scripts/weapon_colt.txt		trusted_source
-	scripts/weapon_frag_ger.txt		trusted_source
-	scripts/weapon_frag_ger_live.txt		trusted_source
-	scripts/weapon_frag_us.txt		trusted_source
-	scripts/weapon_frag_us_live.txt		trusted_source
-	scripts/weapon_garand.txt		trusted_source
-	scripts/weapon_k98.txt		trusted_source
-	scripts/weapon_k98_scoped.txt		trusted_source
-	scripts/weapon_m1carbine.txt		trusted_source
-	scripts/weapon_mg42.txt		trusted_source
-	scripts/weapon_mp40.txt		trusted_source
-	scripts/weapon_mp44.txt		trusted_source
-	scripts/weapon_p38.txt		trusted_source
-	scripts/weapon_pschreck.txt		trusted_source
-	scripts/weapon_riflegren_ger.txt		trusted_source
-	scripts/weapon_riflegren_ger_live.txt		trusted_source
-	scripts/weapon_riflegren_us.txt		trusted_source
-	scripts/weapon_riflegren_us_live.txt		trusted_source
-	scripts/weapon_smoke_ger.txt		trusted_source
-	scripts/weapon_smoke_us.txt		trusted_source
-	scripts/weapon_spade.txt		trusted_source
-	scripts/weapon_spring.txt		trusted_source
-	scripts/weapon_thompson.txt		trusted_source
+	scripts/weapons/weapon_30cal.txt		trusted_source
+	scripts/weapons/weapon_amerknife.txt		trusted_source
+	scripts/weapons/weapon_bar.txt		trusted_source
+	scripts/weapons/weapon_bazooka.txt		trusted_source
+	scripts/weapons/weapon_c96.txt		trusted_source
+	scripts/weapons/weapon_colt.txt		trusted_source
+	scripts/weapons/weapon_frag_ger.txt		trusted_source
+	scripts/weapons/weapon_frag_ger_live.txt		trusted_source
+	scripts/weapons/weapon_frag_us.txt		trusted_source
+	scripts/weapons/weapon_frag_us_live.txt		trusted_source
+	scripts/weapons/weapon_garand.txt		trusted_source
+	scripts/weapons/weapon_k98.txt		trusted_source
+	scripts/weapons/weapon_k98_scoped.txt		trusted_source
+	scripts/weapons/weapon_m1carbine.txt		trusted_source
+	scripts/weapons/weapon_mg42.txt		trusted_source
+	scripts/weapons/weapon_mp40.txt		trusted_source
+	scripts/weapons/weapon_mp44.txt		trusted_source
+	scripts/weapons/weapon_p38.txt		trusted_source
+	scripts/weapons/weapon_pschreck.txt		trusted_source
+	scripts/weapons/weapon_riflegren_ger.txt		trusted_source
+	scripts/weapons/weapon_riflegren_ger_live.txt		trusted_source
+	scripts/weapons/weapon_riflegren_us.txt		trusted_source
+	scripts/weapons/weapon_riflegren_us_live.txt		trusted_source
+	scripts/weapons/weapon_smoke_ger.txt		trusted_source
+	scripts/weapons/weapon_smoke_us.txt		trusted_source
+	scripts/weapons/weapon_spade.txt		trusted_source
+	scripts/weapons/weapon_spring.txt		trusted_source
+	scripts/weapons/weapon_thompson.txt		trusted_source
+	scripts/weapons/weapon_greasegun.txt		trusted_source
 	models/player/german_rifleman.mdl		trusted_source
 	models/player/german_assault.mdl		trusted_source
 	models/player/german_support.mdl		trusted_source
